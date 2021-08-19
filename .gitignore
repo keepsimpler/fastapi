@@ -1,0 +1,7 @@
+.env
+.vscode
+*.jpg
+__pycache__
+alembic
+JFJT.pfx
+libSADK_Standard.so.3.4.1.2
